@@ -14,5 +14,4 @@ An application to track your expenses efficiently.
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/aksharkacha05/Expense-Tracker.git
-   cd Expense-Tracker
+   git clone https://github.com/aksharkacha05/Expense
